@@ -28,7 +28,7 @@ This assignment explores multiple advanced concepts in Java programming. It invo
 This project is dedicated to a deep dive into binary search trees and how they can effectively organize and access data. It sheds light on the insertion, deletion, searching, and traversal operations of binary search trees and their time complexities.
 
 ## Huffman Coding
-A pair assignment to implement Huffman Coding algorithm. This project not only reinforced our understanding of trees, especially binary trees, and their applications in data compression and bit manipulation, but we also designed and implemented our own Priority Queue from scratch to facilitate the construction of the Huffman tree.
+An assignment to learn about the implementation of the Huffman Coding algorithm. This project not only reinforced our understanding of trees, especially binary trees, and their applications in data compression and bit manipulation, but we also designed and implemented our own Priority Queue from scratch to facilitate the construction of the Huffman tree.
 
 ## Graph Algorithms
 The final project of the course delving into the practical application of graph theory. It involves implementing and grappling with various graph algorithms such as Breadth First Search, Depth First Search, and Dijkstra's algorithms, to solve complex programming challenges.
