@@ -1,4 +1,4 @@
-# Fall 2023 CS314 Projects
+# Spring 2023 CS314 Projects
 
 ## Disclaimer
 *Please note that this repository represents work completed as part of the course CS314: Data Structures. Current students of this course should refrain from viewing or accessing the content within this repository, as this would potentially entail a breach of the Honor Code maintained by the University of Texas. Should you wish to gain further details about this project, please do not hesitate to reach out to me at diegowearden@utexas.edu. Please respect the integrity of academic work and refrain from inappropriate use of the material provided here.*
